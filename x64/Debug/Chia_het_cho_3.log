@@ -1,0 +1,3 @@
+﻿  Chia_het_cho_3.cpp
+D:\Source\Chia_het_cho_3\Chia_het_cho_3.cpp(26,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Chia_het_cho_3.vcxproj -> D:\Source\Chia_het_cho_3\x64\Debug\Chia_het_cho_3.exe
